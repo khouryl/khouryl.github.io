@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Luke Khoury / Luke Khoury"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@_lukekhoury"
   vine             :
   weibo            :
   xing             :
